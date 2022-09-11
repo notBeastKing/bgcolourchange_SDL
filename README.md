@@ -1,0 +1,1 @@
+SDL test to see how updating colours realtime works (very inefficient just wanted to try things out)
